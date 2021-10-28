@@ -1,0 +1,4 @@
+1. How to selectively update only a few parameters.
+    - I've already changed the permissions on the schema
+    - When passing parameters to edit, data is being modified to null when properties not present. 
+    
